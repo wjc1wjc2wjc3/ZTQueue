@@ -8,6 +8,10 @@
 
 #import "ZTQueue.h"
 
+@implementation ZTNode
+
+@end
+
 @implementation ZTQueue
 
 - (BOOL)isEmpty{
